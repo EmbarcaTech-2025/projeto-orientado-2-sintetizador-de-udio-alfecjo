@@ -32,13 +32,13 @@ O sistema interage com o usuário através de **botões físicos**, fornece **fe
 
 ## 🧰 Componentes utilizados
 
-- **Raspberry Pi Pico (BitDogLab)**
+- **BitDogLab (Raspberry Pi Pico W)**
 - **ADC interno** do RP2040
-- **Display OLED** com comunicação I2C
-- **LED RGB**
-- **Botões físicos (GPIO)**
-- **PWM para saída de áudio**
-- **DMA** para leitura eficiente do ADC
+- **Display OLED** da BDL com comunicação I2C
+- **LED RGB** da BDL
+- **Botões físicos (GPIO)** da BDL
+- **PWM para saída de áudio** do RP2040
+- **DMA** para leitura eficiente do ADC do RP2040
 
 ---
 
